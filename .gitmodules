@@ -1,0 +1,4 @@
+[submodule "llvm-project"]
+	path = llvm-project
+    url = https://github.com/CryptoLabInc/llvm-project.git
+    branch = heco-heaan
