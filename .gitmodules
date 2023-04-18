@@ -2,3 +2,7 @@
 	path = llvm-project
     url = https://github.com/CryptoLabInc/llvm-project.git
     branch = heco-heaan
+[submodule "SEAL"]
+	path = SEAL
+    url = https://github.com/microsoft/SEAL.git
+    branch = 4.0.0
